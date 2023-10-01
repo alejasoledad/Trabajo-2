@@ -21,3 +21,4 @@ class MainApp extends StatelessWidget {
     );
   }
 }
+//ventana prinncipal de la APP
